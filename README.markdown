@@ -5,7 +5,7 @@ collection and the tracks listed on last.fm. Currently, only the "recently
 played tracks" on your profile page shows this idea by allowing you to click a
 recently played track, playing that equivalent track in your iTunes library.
 
-See the screencast here for a better explanation.
+See the screencast [here](http://gavin.brokentrain.net/upload/bridge.mov) for a better explanation.
 
 Early development, but hoping to extend it out to allow queuing, have similar
 functionality on artists pages, etc.
